@@ -28,7 +28,19 @@ class Biblioteca:
 
         for libro in resultados:
             print(f"Título: {libro.titulo}, Autor: {libro.autor}")
-        
+
         return resultados
-    
-    #cambio
+
+ # Ejemplos de acciones con las clases y objetos de este código, se debe probar en lineas separadas, primero correr el código de arriba
+ libro_quijote= Libro("quijote", "miguel cervantes")
+ libro_borjes= Libro("aleph", "borges")
+ 
+ literatura_española = Biblioteca("Literatura española")
+ literatura_española.agregar_libro(libro_quijote)
+ literatura_española.agregar_libro(libro_borjes)
+
+literatura_española.remover_libro(libro_quijote)
+literatura_española.remover_libro(libro_quijote)
+
+literatura_española.buscar_libros("borges")
+   
