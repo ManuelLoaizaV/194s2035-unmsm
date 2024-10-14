@@ -1,12 +1,13 @@
-#Gestión de empleados de la UNMSM
-#04_clases/gestion/UNMSM/
+# Gestión de empleados de la UNMSM
+# 04_clases/gestion/UNMSM/
 # Daira Trinidad, 23190394
+
 class Empleado:
     # Variables de clase
     nombre_universidad = "Universidad Nacional Mayor de San Marcos"
     total_empleados = 0
 
-    def _init_(self, primer_nombre, apellido, dni, puesto, salario):
+    def __init__(self, primer_nombre, apellido, dni, puesto, salario):
         # Variables de instancia
         self.primer_nombre = primer_nombre
         self.apellido = apellido
@@ -27,6 +28,8 @@ class Empleado:
     def obtener_informacion_universidad(cls):
         return f"La universidad {cls.nombre_universidad} tiene {cls.total_empleados} empleados."
 
+
+# Crear instancias de la clase Empleado
 empleado1 = Empleado("Daira", "Trinidad", "78901234", "Investigadora", 1823)
 empleado2 = Empleado("Paola", "Maldonado", "72353893", "Investigadora", 3200)  
 empleado3 = Empleado("Gabriel", "Laurente", "73097347", "Administrativo", 2900)
