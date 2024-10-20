@@ -1,7 +1,6 @@
 # Gestión de empleados de la UNMSM
 # 04_clases/gestion/UNMSM/
 # Daira Trinidad, 23190394
-
 class Empleado:
     # Variables de clase
     nombre_universidad = "Universidad Nacional Mayor de San Marcos"
