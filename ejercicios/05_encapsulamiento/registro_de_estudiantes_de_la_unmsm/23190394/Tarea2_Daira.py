@@ -1,4 +1,5 @@
 #Registros de estudio de la UNMSM
+#Tare2
 class Estudiante:
     def __init__(self, nombre):
         self.nombre = nombre
