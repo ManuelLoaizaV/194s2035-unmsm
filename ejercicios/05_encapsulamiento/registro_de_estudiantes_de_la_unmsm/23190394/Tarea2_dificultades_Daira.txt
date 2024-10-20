@@ -1,1 +1,2 @@
 Presentaba un  error en el terminal de Visual Studio Code con la ejecución de Python y tenia que reconfigurar el intérprete de Python en VS Code.
+Y conectar el visual con github.
