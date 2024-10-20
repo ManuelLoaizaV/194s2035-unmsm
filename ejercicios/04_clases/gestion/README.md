@@ -1,5 +1,3 @@
-# Gestión de Empleados de la UNMSM
-
 La **Universidad Nacional Mayor de San Marcos (UNMSM)** está en constante crecimiento.
 Necesitan una forma de hacer seguimiento a todos sus empleados, especialmente a los nuevos contratados.
 Te han pedido que desarrolles una herramienta interna para ayudar en la gestión de los empleados.
