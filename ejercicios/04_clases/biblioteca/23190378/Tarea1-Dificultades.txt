@@ -1,0 +1,8 @@
+Principalmente aprendí a como se puede realizar una búsqueda sin importar la distribución de 
+mayúsculas o minúsculas en las palabras. La mayor dificultad que tuve, por ser la primera tarea fue
+tratar de comprender el uso del github en conjunto con el vscode, ya que es la primera vez que uso estos
+programas, sobre el código, fue de mucha ayuda que exista un modelo a seguir en la carpeta "biblioteca",
+me hizo las cosas más faciles y afortunadamente no tuve muchas complicaciones, y la otra fue que en la parte
+donde debía eliminar el libro duplicado, no sabía de que manera incluir en el código una forma en que detecte
+que los datos de un libro están duplicados y solo considerar 1 en la búsqueda, por lo que opté por eliminarlo
+"manualmente" con remover.libro.
