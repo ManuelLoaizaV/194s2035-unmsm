@@ -7,3 +7,4 @@ class Empleado:
 
     def obtener_nombre(self):
         pass
+    
