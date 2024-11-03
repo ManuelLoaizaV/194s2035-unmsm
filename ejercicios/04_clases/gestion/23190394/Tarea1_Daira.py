@@ -41,3 +41,4 @@ print(empleado4.obtener_informacion_empleado())
 
 # Mostrar el total de empleados y la universidad
 print(Empleado.obtener_informacion_universidad())
+
