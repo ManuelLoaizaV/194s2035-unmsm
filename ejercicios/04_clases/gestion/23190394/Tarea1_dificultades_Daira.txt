@@ -1,0 +1,3 @@
+Las primeras dificultades que se presentaron fueron el desorden que se generó al incorporar mi nueva cuenta de GitHub.
+La segunda fue que, aunque mi código corría correctamente en Visual Studio, al incorporarlo en las carpetas de la tarea me aparecía un error o un mensaje indicando que no era compatible para compilar, aunque el programa funcionaba correctamente.
+Otra dificultad fue que creé una carpeta fuera de la carpeta asignada para la tarea.
